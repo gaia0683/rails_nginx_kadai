@@ -59,3 +59,5 @@ gem 'unicorn'
 gem 'unicorn-rails'
 
 gem 'net-smtp'
+gem 'net-imap'
+gem 'net-pop'
