@@ -57,3 +57,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 source 'https://rubygems.org'
 gem 'unicorn'
 gem 'unicorn-rails'
+
+gem 'net-smtp'
